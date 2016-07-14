@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468464661 source:c:\users\andre\onedrive\documentos\c\pacman\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	"mapa.h"
+
+1468464953 c:\users\andre\onedrive\documentos\c\pacman\mapa.h
+
