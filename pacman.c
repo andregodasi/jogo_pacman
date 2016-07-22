@@ -36,6 +36,7 @@ int acabou(){
 }
 
 int main() {
+    printf("teste");
     char d;
 	lemapa(&m);
     encontramapa(&m, &heroi, '@');
