@@ -1,8 +1,26 @@
 # depslib dependency file v1.0
-1468464661 source:c:\users\andre\onedrive\documentos\c\pacman\mapa.c
+1472152082 source:c:\users\andre\onedrive\documentos\c\pacman\mapa.c
 	<stdio.h>
 	<stdlib.h>
 	"mapa.h"
+	<string.h>
 
-1468464953 c:\users\andre\onedrive\documentos\c\pacman\mapa.h
+1472152096 c:\users\andre\onedrive\documentos\c\pacman\mapa.h
+
+1472152276 source:c:\users\andre\onedrive\documentos\c\pacman\pacman.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"pacman.h"
+	"mapa.h"
+	"ui.h"
+
+1472152057 c:\users\andre\onedrive\documentos\c\pacman\pacman.h
+
+1472152257 c:\users\andre\onedrive\documentos\c\pacman\ui.h
+	"mapa.h"
+
+1472152225 source:c:\users\andre\onedrive\documentos\c\pacman\ui.c
+	<stdio.h>
+	"mapa.h"
 

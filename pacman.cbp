@@ -30,10 +30,23 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-std=c99" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="mapa.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="mapa.h" />
+		<Unit filename="mapa.txt" />
+		<Unit filename="pacman.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pacman.cbp" />
+		<Unit filename="pacman.depend" />
+		<Unit filename="pacman.h" />
+		<Unit filename="ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ui.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
