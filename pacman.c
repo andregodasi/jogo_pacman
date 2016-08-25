@@ -134,6 +134,7 @@ void explodepilula() {
 
 int main() {
 
+
 	lemapa(&m);
 	encontramapa(&m, &heroi, HEROI);
 
